@@ -26,4 +26,5 @@ After cleaning and analysing the data, attached below is the report.
 From the report, it was revealed that products in fashion accessories made the most sales. January had the highest gross income. The supermarket branch in Yangon made the most sales. Overall sales was made with E-wallet, followed by Cash payment. Customers made more purchases between the hours of 7pm - 7:59pm & 1pm - 1:59pm.
 
 ## Conclusion
-This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and User Experience through the .pbix version of the report provided. 
+This was a fun project to work on. You can explore the interactive version of the report to see the full functionality and user experience through the link privided below
+[PowerBI Report](https://app.powerbi.com/view?r=eyJrIjoiZGU5MDQ4MjQtNjIxYS00M2E3LWFkMjQtYWVhZTAxOTQ4NDU4IiwidCI6IjQzZjFiNDVlLTIwODgtNGE4NS05MTE3LWM1ODhiODdiNDQwYSJ9)
