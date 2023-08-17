@@ -1,10 +1,10 @@
 ## Daries-Supermarket-Sales-Analysis
 
-Cleaning and analysing Daries Supermarket Sales data as well as report design in PowerBI
+Cleaning and analysing Daries Supermarket Sales data as well as creating a report in PowerBI
 
 ## Introduction
 
-This project was one that resulted from a search for a project that would involve working with real data and which the insights would be interesting to see. 
+This project was one that resulted from a search for a project that would involve working with data and which the insights would be interesting to see. 
 
 The documentation includes:
 - Report Requirements
